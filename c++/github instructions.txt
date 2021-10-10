@@ -1,0 +1,7 @@
+git clone <link>
+cd Hacktober-2021/
+do changes
+git add .
+git commit -m"add palindrome"
+git push origin <branch>
+ab teri personal repo mei code chale gaya
